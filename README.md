@@ -1,9 +1,9 @@
-# ts-base
+# ts-mixin-layers
 TypeScript class inheritance with mixin layers
 
 ## Motivation
 
-This project is based on Yannis Smaragdakis and Don Batory's research paper, [_Implementing Layered Designs with Mixin Layers_](https://yanniss.github.io/templates.pdf) (12th European Conference on Object-Oriented Programming, ECOOP '98) which explores a new architectural 
+This project is based on [Implementing Layered Designs with Mixin Layers - Smaragdakis, Batory (1998)](https://yanniss.github.io/templates.pdf) (12th European Conference on Object-Oriented Programming, ECOOP '98) which explores a new architectural 
 design pattern for object oriented programming. The proposed new layered approach to class interitance involves a collaboration-based design (almost) perfectly fitting
 GUI application implementation with TypeScript.
 
